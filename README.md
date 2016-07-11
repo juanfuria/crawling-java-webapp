@@ -7,7 +7,7 @@
 
 
 # Crawling Java Webapp
-This is a graphical web interface for the (crawling-java)[https://github.com/juanfuria/crawling-java] library.
+This is a graphical web interface for the [crawling-java](https://github.com/juanfuria/crawling-java) library.
 Please refer to the library for further information.
 
 # Use
